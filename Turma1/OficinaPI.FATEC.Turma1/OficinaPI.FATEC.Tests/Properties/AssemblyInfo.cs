@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("OficinaPI")]
+[assembly: AssemblyTitle("OficinaPI.FATEC.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("OficinaPI")]
+[assembly: AssemblyProduct("OficinaPI.FATEC.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8f2785bf-cea9-4d7b-b8f1-9f35be92e3e6")]
+[assembly: Guid("f6eb7d44-e300-4adc-a7fd-78c40f672287")]
 
 // Version information for an assembly consists of the following four values:
 //

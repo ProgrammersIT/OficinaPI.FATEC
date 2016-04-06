@@ -2,12 +2,13 @@
 
 namespace OficinaPI.FATEC.Tests
 {
+    [TestFixture]
     public class ExampleTest
     {
         [Test]
         public void FailingTest()
         {
-            Assert.Fail("Failling Test");
+            Assert.Fail("Este é um teste falhando");
         }
 
         [Test]

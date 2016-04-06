@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{10A70EA9-CD90-40AD-97AE-5B7BDC9413E4}</ProjectGuid>
+    <ProjectGuid>{42728E2D-A26D-4692-98C2-4B74614877A9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>OficinaPI.FATEC.Tests</RootNamespace>
